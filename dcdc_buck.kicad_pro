@@ -734,7 +734,7 @@
         "uuid": "eab0e308-998f-46eb-b08a-3c69b2b4a317"
       }
     ],
-    "used_designators": "JP1,JP7,TP11,TP18-21,#PWR44,#PWR48-49,#PWR68,R31-32,IC1,CF2,C21-22",
+    "used_designators": "JP1,JP7,TP11,TP18-21,R31-32,#PWR44,#PWR48-49,#PWR68,CF2,IC1,C21-22",
     "variants": []
   },
   "sheets": [
@@ -745,7 +745,7 @@
   ],
   "text_variables": {
     "PRJNAME": "DC/DC Buck-Converter V${REVISION}",
-    "REVISION": "1.0"
+    "REVISION": "1.1"
   },
   "tuning_profiles": {
     "meta": {
